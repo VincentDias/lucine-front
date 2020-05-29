@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lucine-project"
+    }
+  },
+  "defaultProject": "lucine-project",
+  "cli": {
+    "analytics": "62506db6-c78e-46e9-b2e9-3026eeaa5109"
+  }
 }
